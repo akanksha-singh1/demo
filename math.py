@@ -1,6 +1,6 @@
 #addition implimatation
 def add(x,y):
-    pass
+    return x+y
 #substraction implimentation
 def subtract(x,y):
     pass
@@ -10,4 +10,3 @@ def multiply(x,y):
 #division implimentation
 def divide(x,y):
     pass
-
