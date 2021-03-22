@@ -1,24 +1,13 @@
 #addition implimatation
 def add(x,y):
-    return x+y
+    pass
 #substraction implimentation
 def subtract(x,y):
-    return x-y
+    pass
 #multiplication implimentation
 def multiply(x,y):
-    return x*y
+    pass
 #division implimentation
 def divide(x,y):
-    if y==0:
-        return DIVIDE_BY_0_ERROR
-    else:
-        return x/y
-<<<<<<< Updated upstream
-#square implematation
-def square:
-    return x*x
-=======
-#Square implementation
-def square(x):
     pass
->>>>>>> Stashed changes
+
